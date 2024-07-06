@@ -38,7 +38,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-
+        ".header__inline-menu .list-menu--inline li a {font-size: 18px;}"
       ],
       "settings": {
         "logo_position": "middle-left",
