@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -30,7 +39,6 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Lots_of_refreshing_ice_cubes_in_summer.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
@@ -77,7 +85,6 @@
         "row_7FQ6wA": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Acd88bd11b8a748198e371813916b2ce0q.webp",
             "caption": "",
             "heading": "Best selling product 2024",
             "text": "<p>🍓 Healthy Homemade Treats<\/p><p>Replace ice cream full of sugar and preservatives with healthy ice cream made by yourself<\/p>",
@@ -88,7 +95,6 @@
         "row_UcJHyg": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FE6A863F27FE78767699954BC183A5F3_7faa8372-d080-4c7c-8f14-aa976529192d.png",
             "caption": "",
             "heading": "The most innovative product",
             "text": "<p>🌟Your New Favorite Tool <\/p><p>Spray and pour, so you can cook food more easily and quickly, and most importantly, <strong>more healthily <\/strong><\/p>",
@@ -99,7 +105,6 @@
         "row_nbkgEb": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/S043f8153acdb4601a07cce8a83bd07ecq.webp",
             "caption": "",
             "heading": "Newly arrived and in high demand",
             "text": "<p><strong>☕ <\/strong>Vacuum Insulated Coffee Mug<\/p><p>🌟 Premium Stainless Steel<\/p><p>🎉 Multipurpose Use<\/p><p>👌 Comfortable Handle<\/p><p>💯 Satisfaction Guaranteed<\/p>",
@@ -131,18 +136,6 @@
     },
     "17174963916ad54ed9": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_kKxUTz": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_kKxUTz"
-      ],
       "settings": {
         "include_margins": true
       }
