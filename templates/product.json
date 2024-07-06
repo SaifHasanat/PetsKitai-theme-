@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -25,11 +34,6 @@
           "settings": {
             "text": "Free Shipping",
             "text_style": "body"
-          }
-        },
-        "judge_me_reviews_preview_badge_8RDkPX": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
           }
         },
         "buy_buttons_iq8f7D": {
@@ -87,7 +91,6 @@
         "variant_picker_fUUPWR",
         "price",
         "text_L6Nydf",
-        "judge_me_reviews_preview_badge_8RDkPX",
         "buy_buttons_iq8f7D",
         "description",
         "collapsible_tab_c4fXw6",
@@ -142,14 +145,14 @@
     "1716809130026e9a90": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_review_widget_jWLyFU": {
+        "judge_me_reviews_review_widget_tRb4LE": {
           "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
         }
       },
       "block_order": [
-        "judge_me_reviews_review_widget_jWLyFU"
+        "judge_me_reviews_review_widget_tRb4LE"
       ],
       "settings": {
         "include_margins": true
