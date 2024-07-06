@@ -60,14 +60,14 @@
           "type": "link_list",
           "settings": {
             "heading": "Policies",
-            "menu": ""
+            "menu": "policies"
           }
         },
         "link_list_gXWDQ4": {
           "type": "link_list",
           "settings": {
             "heading": "Shop",
-            "menu": ""
+            "menu": "shop"
           }
         }
       },
