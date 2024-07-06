@@ -60,14 +60,14 @@ h3.card__heading .full-unstyled-link {
 }
 
 .list-menu .header__menu-item[aria-current="page"] span {
-  color: #F2850B;
-  text-shadow: 0 0 15px #F2850B;
+  color: #4346CB;
+  text-shadow: 0 0 15px #4346CB;
 }
 
 .list-menu .header__menu-item span:hover,
 .list-menu .header__menu-item span:focus,
 .list-menu .header__menu-item span:active {
-  color: #F2850B;
-  text-shadow: 0 0 15px #F2850B;
+  color: #4346CB;
+  text-shadow: 0 0 15px #4346CB;
 }
 /* edit the header menue items */
