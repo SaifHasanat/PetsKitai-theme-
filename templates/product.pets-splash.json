@@ -71,22 +71,12 @@
             "page": ""
           }
         },
-        "collapsible_tab_WzGCJB": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "We Promise you",
-            "icon": "heart",
-            "content": "<p>Our product will help you organize your food more<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_Rp7wiD": {
+        "collapsible_tab_nG7DDd": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "What in the Box",
-            "icon": "box",
-            "content": "<p>each silicone mold comes with 50 sticks, and a dust cover<\/p>",
+            "heading": "How to use",
+            "icon": "question_mark",
+            "content": "<p>1. Put the gasket on the connector.<br\/>2. Install the water pipe connector.<br\/>3. Connect the water pipe to the mat.<br\/>4. Attach the water pipe to the faucet and fill it with water.<\/p>",
             "page": ""
           }
         }
@@ -101,8 +91,7 @@
         "description",
         "collapsible_tab_c4fXw6",
         "collapsible_tab_Un8fQN",
-        "collapsible_tab_WzGCJB",
-        "collapsible_tab_Rp7wiD"
+        "collapsible_tab_nG7DDd"
       ],
       "settings": {
         "enable_sticky_info": true,
