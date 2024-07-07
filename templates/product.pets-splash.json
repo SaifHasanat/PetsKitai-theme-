@@ -65,9 +65,9 @@
         "collapsible_tab_Un8fQN": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Free Shipping",
-            "icon": "plane",
-            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Shipping to the UK: 5-6 business days.<\/li><li>Shipping to the US: 6-9 business days.<\/li><\/ul><p><strong>No extra charges on the product<\/strong><\/p>",
+            "heading": "What in the box",
+            "icon": "box",
+            "content": "<p>1 X Dog Mats<\/p>",
             "page": ""
           }
         },
