@@ -39,6 +39,7 @@
 
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/banner22.png",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
