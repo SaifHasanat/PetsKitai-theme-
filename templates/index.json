@@ -82,6 +82,17 @@
     "multirow_K34H7m": {
       "type": "multirow",
       "blocks": {
+        "row_xFUkT8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/S10611e434b7b4ff1907fc510825931839.webp",
+            "caption": "",
+            "heading": "Pets splash",
+            "text": "<p>Keep your pup cool and entertained this summer with Pets Splash™! This amazing product combines a play pool and water sprinkler to keep your pets cool, hydrated, and entertained for hours, even on the hottest days.<\/p>",
+            "button_label": "take a lock",
+            "button_link": "shopify:\/\/products\/150-170cm-summer-pet-swimming-pool-inflatable-water-sprinkler-pad-play-cooling-mat-outdoor-interactive-fountain-toy-for-dogs"
+          }
+        },
         "row_7FQ6wA": {
           "type": "row",
           "settings": {
@@ -117,6 +128,7 @@
         }
       },
       "block_order": [
+        "row_xFUkT8",
         "row_7FQ6wA",
         "row_UcJHyg",
         "row_nbkgEb"
